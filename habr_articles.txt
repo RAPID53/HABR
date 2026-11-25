@@ -1,3 +1,18 @@
+2026-11-25 11:43 | Glamsterdam поеипно. Часть 2: BAL | https://habr.com/ru/articles/1112238/
+2026-11-25 11:37 | Стандартная передача файлов по Bluetooth в Windows 11 останется доступной после удаления MTP | https://habr.com/ru/articles/1112194/
+2026-11-25 11:31 | Нейросеть для редактирования фото: Nano Banana 2.1 и Pro, Seedream 5.5 и GPT Image 2.6 на 8 правках одного снимка | https://habr.com/ru/companies/syntx_ai/articles/1112224/
+2026-11-25 11:30 | «Просто включите SSL-декрипт»: почему фаервол слепнет на TLS 1.3 и QUIC и чем заканчивается попытка расшифровать всё | https://habr.com/ru/articles/1112068/
+2026-11-25 11:29 | Ведущая сценаристка GTA 6 удалила аккаунт в X из-за травли в Сети | https://habr.com/ru/companies/ggsel/articles/1112226/
+2026-11-25 11:22 | Использовать разные NS-серверы для домена и поддомена | https://habr.com/ru/companies/timeweb/articles/1112220/
+2026-11-25 11:21 | Красивые схемы агентного ИИ и данные Gartner. Почему «рост производительности» не следует из автоматизации | https://habr.com/ru/articles/1112212/
+2026-11-25 11:17 | Пользователи Anthropic могут превращать «артефакты» в Claude в приложения для macOS и Windows | https://habr.com/ru/articles/1112184/
+2026-11-25 11:16 | Crimson Desert получила 11 номинаций на премии Grand Game Awards 2026 | https://habr.com/ru/companies/ggsel/articles/1112208/
+2026-11-25 11:09 | NVIDIA вновь сокращает поставки игровых видеокарт: в четвертом квартале квоты урежут на 20–30% | https://habr.com/ru/companies/ggsel/articles/1112204/
+2026-11-25 11:01 | Windows 7 получила неофициальную поддержку DirectX 12, Vulkan 1.4 и современных видеокарт | https://habr.com/ru/companies/selectel/articles/1111852/
+2026-11-25 10:57 | Чужое SDK 6 дней роняло мое приложение, а алерты, которые я навайбкодил, молчали | https://habr.com/ru/articles/1112192/
+2026-11-25 10:57 | Функция Windows 11 помогла выявить расширения для Chrome с перегрузкой SSD | https://habr.com/ru/articles/1112176/
+2026-11-25 10:54 | Минимализм в HMI: уходим от визуального шума | https://habr.com/ru/companies/psm_unlim/articles/1112190/
+2026-11-25 10:54 | Растворимость 4-бутилрезорцинола. Справочник и реальность | https://habr.com/ru/articles/1111656/
 2026-11-25 10:53 | В России создадут единую базу интернет‑провайдеров в многоквартирных домах | https://habr.com/ru/articles/1112188/
 2026-11-25 10:50 | Катастрофоустойчивость в Tantor Polar и при чем тут Oracle Data Guard и Far Sync | https://habr.com/ru/companies/tantor/articles/1112162/
 2026-11-25 10:49 | Исповедальный маркетинг и «синдром Россиу»: где заканчивается «радикальная честность» в бигтехе и коучинге | https://habr.com/ru/articles/1112182/
