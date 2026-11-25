@@ -1,0 +1,23 @@
+name: Habr RSS Monitor
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python parser.py
+      - run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "Habr Bot"
+          git add habr_articles.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update articles" && git push)
