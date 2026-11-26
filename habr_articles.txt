@@ -1,3 +1,22 @@
+2026-11-26 09:45 | Практическая встреча «Повышение эффективности без сопротивления» для HR и руководителей бизнеса в Санкт-Петербурге | https://habr.com/ru/companies/korus_consulting/articles/1112586/
+2026-11-26 09:37 | Для разработки доверенного ПО в России предложили создать аналог GitHub | https://habr.com/ru/articles/1112582/
+2026-11-26 09:28 | Как мы перестали вручную приклеивать кастрюли к кухне | https://habr.com/ru/companies/X5Tech/articles/1108268/
+2026-11-26 09:25 | Итак, вы создали виртуальную машину: что дальше? Жизненный путь ВМ по уровням платформы | https://habr.com/ru/companies/rubytech/articles/1112576/
+2026-11-26 09:25 | Как ревью A/B-тестов изменило наши продуктовые решения | https://habr.com/ru/companies/garage8/articles/1112578/
+2026-11-26 09:23 | Как я вытащил свою медицинскую историю из Медси и ИНВИТРО и собрал ИИ-медика на OpenCode | https://habr.com/ru/articles/1112308/
+2026-11-26 09:21 | Физика матрицы: куда пропадают две трети света в ЖК-экранах и чем RGB MiniLED отличается от OLED | https://habr.com/ru/companies/hisense_tv/articles/1112568/
+2026-11-26 09:20 | От задержки письма до переключения базы: о чем поговорить на Продуктовой аллее HighLoad++ 2026 | https://habr.com/ru/companies/oleg-bunin/articles/1112502/
+2026-11-26 09:18 | Обзор интеграционной шины Max PI | https://habr.com/ru/companies/w_code/articles/1112564/
+2026-11-26 09:14 | Почему автоматизация проектного управления иногда делает проекты хуже | https://habr.com/ru/companies/shtab/articles/1112552/
+2026-11-26 09:14 | Корпоративный ИИ на видеокарте с 12 ГБ: фантастика или новая реальность? Разбираем Ternary Bonsai 2.5 | https://habr.com/ru/articles/1112562/
+2026-11-26 09:14 | Новая технология превращает предплечье в тачпад для умных часов | https://habr.com/ru/articles/1112412/
+2026-11-26 09:11 | Почему JavaScript отправляет на сервер вчерашнюю дату и как исправить это с помощью Temporal | https://habr.com/ru/companies/otus/articles/1111018/
+2026-11-26 09:07 | Lenta Tech едет на HighLoad++ и зовет всех в гости | https://habr.com/ru/companies/lentatech/articles/1112558/
+2026-11-26 09:02 | Облако или On-Premise для ИИ: как выбрать GPU-инфраструктуру и не переплатить | https://habr.com/ru/companies/orion_soft/articles/1112556/
+2026-11-26 09:02 | Гравировка алмазом по металлу на домашнем ЧПУ-станке 3018. Может ли станок что-то, кроме печатных плат? ;-) | https://habr.com/ru/companies/ruvds/articles/1110936/
+2026-11-26 09:01 | Мини-ПК с двумя манипуляторами и локальным ИИ — комплект ASRock Industrial RBK-100 Robotics-in-a-Box | https://habr.com/ru/companies/selectel/articles/1112306/
+2026-11-26 08:56 | Работаем с данными с помощью ИИ-агентов на DataLens Platform | https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1112340/
+2026-11-26 08:49 | От запроса до проверенного результата: как мы встраиваем ИИ-агентов в полный цикл разработки | https://habr.com/ru/companies/svoi_ru/articles/1112554/
 2026-11-26 08:44 | Американские писатели обвинили Nvidia в незаконном распространении их произведений | https://habr.com/ru/articles/1112548/
 2026-11-26 08:38 | Скучный Go против модного Rust: почему TypeScript выбрал прагматизм | https://habr.com/ru/companies/avito/articles/1109994/
 2026-11-26 08:35 | Блок призыва в статическом блоге: четыре переделки за неделю | https://habr.com/ru/articles/1111942/
