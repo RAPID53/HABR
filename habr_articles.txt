@@ -1,3 +1,16 @@
+2026-11-26 14:31 | Skills over MCP: скилл теперь приезжает вместе с MCP-сервером | https://habr.com/ru/articles/1112776/
+2026-11-26 14:30 | Microsoft увеличила срок хранения резервных копий в OneDrive и SharePoint до 10 лет | https://habr.com/ru/articles/1112774/
+2026-11-26 14:09 | Я выбрал модель, а отвечала другая: 129 проверок Perplexity | https://habr.com/ru/articles/1111446/
+2026-11-26 14:06 | Отцы, дети, зумеры. Тургенев И.С | https://habr.com/ru/articles/1112768/
+2026-11-26 13:52 | Как выучить язык до B1 за год: мой рецепт, который начался с долгой компиляции | https://habr.com/ru/articles/1112760/
+2026-11-26 13:42 | Ядра – чистый изумруд? Тестируем кампусные коммутаторы YADRO | https://habr.com/ru/companies/k2tech/articles/1112738/
+2026-11-26 13:40 | Русский ModernBERT: предобучение и постобучение | https://habr.com/ru/companies/mts_ai/articles/1112532/
+2026-11-26 13:39 | Нейросеть для постеров и типографики на русском: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image | https://habr.com/ru/companies/syntx_ai/articles/1112726/
+2026-11-26 13:37 | Valve открыла приём номинантов на десятую премию The Steam Awards 2026 | https://habr.com/ru/articles/1112748/
+2026-11-26 13:26 | Идеи участников геймджема могут внедрить в новом российском симуляторе «Миссия Луна» | https://habr.com/ru/articles/1112754/
+2026-11-26 13:20 | Thinkmine представила язык программирования Kobo для .NET | https://habr.com/ru/companies/selectel/articles/1112752/
+2026-11-26 13:17 | Пользователь обнаружил в Google Chrome потребляющую оперативную память настройку | https://habr.com/ru/articles/1112740/
+2026-11-26 13:12 | [Перевод] Оверинжиниринг продолжается, пока не наскучит | https://habr.com/ru/companies/bhv_publishing/articles/1112750/
 2026-11-26 13:09 | 50 параметров, 5 000 сценариев: как мы проверяем перенос легаси с Yii1 на Yii2 | https://habr.com/ru/companies/flowwow/articles/1112718/
 2026-11-26 13:05 | [Перевод] Как модернизировать унаследованный код с помощью ИИ‑агентов и не перенести старые архитектурные ошибки | https://habr.com/ru/companies/otus/articles/1106686/
 2026-11-26 13:04 | Как научить ребёнка английскому языку и не отбить интерес | https://habr.com/ru/companies/habr_career/articles/1112746/
