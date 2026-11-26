@@ -1,3 +1,4 @@
+2026-11-26 03:22 | Вышел Tails 7.18 | https://habr.com/ru/articles/1112356/
 2026-11-26 02:37 | Nightmare Spire: Как я разрабатываю текстовую MMORPG в Telegram | https://habr.com/ru/articles/1112490/
 2026-11-26 02:25 | Cisco и OpenAI представили Shirudo — платформу для обеспечения безопасности Linux на базе eBPF | https://habr.com/ru/articles/1112166/
 2026-11-26 02:08 | Вышло обновление открытого проекта LocalSend 1.19 для обмена файлами на любых устройствах по локальной сети | https://habr.com/ru/articles/1112218/
