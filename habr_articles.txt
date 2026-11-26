@@ -1,3 +1,23 @@
+2026-11-26 11:46 | Кикшеринговые сервисы попросили отложить новые правила парковки электросамокатов до 2028 года | https://habr.com/ru/articles/1112684/
+2026-11-26 11:44 | Так ли неуязвим Mac: встроенная защита и реальные угрозы | https://habr.com/ru/companies/ringo_mdm/articles/1112352/
+2026-11-26 11:43 | +40% к скорости Inkling 2 Mini на RTX PRO 6000 | https://habr.com/ru/articles/1112682/
+2026-11-26 11:37 | Как очередное обновление Strata “сломало” публикацию LLM для виртуальных машин и как это починить за 2 минуты | https://habr.com/ru/articles/1112678/
+2026-11-26 11:31 | Я удалил фото и стер его из корзины, но его все равно можно восстановить. Как так? | https://habr.com/ru/companies/x-com/articles/1112676/
+2026-11-26 11:30 | Датчик уровня септика на ESP32 и 2 патента на него | https://habr.com/ru/articles/1110624/
+2026-11-26 11:27 | Anthropic забанила в Claude главу Epic Games Тима Суини | https://habr.com/ru/articles/1112660/
+2026-11-26 11:21 | YouTube в ответах нейросетей: как проверить, что подтверждает ссылка из ChatGPT или Perplexity | https://habr.com/ru/articles/1112664/
+2026-11-26 11:21 | Вышел ProcessForge 1.3.0 | https://habr.com/ru/articles/1112668/
+2026-11-26 11:19 | Путь баланса и компромиссов в DCIM | https://habr.com/ru/companies/rwb/articles/1111362/
+2026-11-26 11:11 | Паттерны проектирования GenAI. Harness-инжиниринг и RLM – новые паттерны для агентного ИИ | https://habr.com/ru/companies/piter/articles/1112132/
+2026-11-26 11:07 | Суд во Франции арестовал активы Google на 1,9 млрд евро из‑за российского иска | https://habr.com/ru/articles/1112658/
+2026-11-26 11:07 | Microsoft объявила об устаревании клиента Telnet в Windows | https://habr.com/ru/articles/1112646/
+2026-11-26 11:06 | Биометрия во Flutter: почему local_auth — это еще не защита секрета | https://habr.com/ru/companies/amiga_ru/articles/1112656/
+2026-11-26 11:05 | Cursor глазами системного аналитика: ожидания vs реальность | https://habr.com/ru/companies/orion_soft/articles/1112652/
+2026-11-26 11:05 | Зумеры с исследовательской точки зрения. Что они любят и не любят (по результатам 8 846 анкет и трёх живых фокус-групп) | https://habr.com/ru/articles/1112650/
+2026-11-26 11:02 | Создание табличных видов в nanoCAD BIM Вентиляция | https://habr.com/ru/companies/nanosoft/articles/1112648/
+2026-11-26 11:00 | Как изменения в разработке уже меняют коммуникацию с технической аудиторией и прочий DevRel | https://habr.com/ru/articles/1111710/
+2026-11-26 10:56 | Take‑Two добилась закрытия 3007 репозиториев с фанатскими портами GTA VI | https://habr.com/ru/articles/1112640/
+2026-11-26 10:18 | От хаоса к единой точке истины: как компании развивают культуру данных с помощью Data Catalog | https://habr.com/ru/companies/vk/articles/1112596/
 2026-11-26 10:46 | ESP32 учится ездить: подключаем моторы и управляем вездеходом со смартфона | https://habr.com/ru/companies/first/articles/1112062/
 2026-11-26 10:45 | В VK AI Space появилась библиотека готовых ИИ-агентов, навыков и хуков | https://habr.com/ru/companies/vktech/articles/1112638/
 2026-11-26 10:41 | Зачем вам ElevenLabs, когда есть Qwen TTS (и как научить его русским ударениям) | https://habr.com/ru/articles/1112584/
