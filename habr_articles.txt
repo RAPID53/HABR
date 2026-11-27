@@ -1,3 +1,8 @@
+2026-11-27 05:05 | AI-агент внутри дашборда Superset | https://habr.com/ru/articles/1112936/
+2026-11-27 05:00 | Как мы проверяем, называют ли нас Claude и ChatGPT: 29 вопросов, веб-поиск и потолок 2 доллара в неделю | https://habr.com/ru/articles/1110796/
+2026-11-27 04:58 | Бортовой компьютер с навигацией и speedcam — SandikNavi | https://habr.com/ru/articles/1112934/
+2026-11-27 04:43 | Как радио «Мухомор СПб» на несуществующем домене заставило меня переписать половину ядра своей flat-file CMS | https://habr.com/ru/articles/1112932/
+2026-11-27 04:23 | Представлен открытый проект MousePods для использования AirPods 3 в качестве курсора мышки в Linux | https://habr.com/ru/articles/1112794/
 2026-11-27 03:47 | Релиз Clonezilla Live 3.3.5-3 на базе ядра Linux 7.3 | https://habr.com/ru/articles/1112854/
 2026-11-27 03:30 | Про варисторную защиту | https://habr.com/ru/articles/1112822/
 2026-11-27 03:05 | Невидимый U+2062, Account Frozen после предупреждения и бот под CoinW: разбираем Telegram-скам по result.json | https://habr.com/ru/articles/1112924/
