@@ -1,3 +1,17 @@
+2026-11-27 09:49 | deskhatch: открытый аналог «Install as app» из Claude. Одна среда для всех приложений, без сети, без аккаунта и с Linux | https://habr.com/ru/articles/1113056/
+2026-11-27 09:45 | Слушайте выпуск #8 подкаста «про код.ии.прод» | https://habr.com/ru/companies/banki/articles/1113050/
+2026-11-27 09:41 | Эволюция тестирования: как проверить продукт на разных стадиях | https://habr.com/ru/companies/tochka/articles/1112542/
+2026-11-27 09:37 | Почему ИИ не заменит сильных разработчиков — дело не в коде, а в цене ошибки | https://habr.com/ru/articles/1113046/
+2026-11-27 09:34 | Вас нельзя переселить в компьютер | https://habr.com/ru/articles/1113042/
+2026-11-27 09:28 | В Денвере местный житель забрасывает яйцами беспилотные автомобили Waymo | https://habr.com/ru/articles/1113036/
+2026-11-27 09:19 | Группа Rubytech на HighLoad++ | https://habr.com/ru/companies/rubytech/articles/1113026/
+2026-11-27 09:15 | Сквозь стены: гравитация вместо Wi-Fi | https://habr.com/ru/companies/ua-hosting/articles/1113022/
+2026-11-27 09:14 | Учёные обнаружили странную периодичность древних штормов с циклом в 405 тысяч лет | https://habr.com/ru/articles/1112870/
+2026-11-27 09:12 | TelecomDaily назвал лидеров по развитию цифровых сервисов среди операторов связи | https://habr.com/ru/articles/1113020/
+2026-11-27 09:10 | 5 миллионов трейсов в сутки: как мы построили живую карту микросервисов Авито | https://habr.com/ru/companies/avito/articles/1109954/
+2026-11-27 09:02 | А зачем тогда посредники? Подключил DeepSeek Harness и пересчитал четыре агрегатора заново | https://habr.com/ru/articles/1113016/
+2026-11-27 09:01 | AutoTavern, или как ИИ-агенты сами научились обыгрывать всех в Hearthstone | https://habr.com/ru/companies/ruvds/articles/1112500/
+2026-11-27 08:58 | nanoCAD BIM Строительство 26 доступно на ОС Linux | https://habr.com/ru/companies/nanosoft/articles/1113018/
 2026-11-27 08:47 | Находим ошибки в коде Scilab | https://habr.com/ru/companies/pvs-studio/articles/1113014/
 2026-11-27 08:44 | Как мы строили стартап, собирали команду и в итоге потеряли миллион рублей | https://habr.com/ru/articles/1113012/
 2026-11-27 08:42 | Как проверить накладную на футболки до печати. Два CSV и один скрипт | https://habr.com/ru/articles/1113010/
