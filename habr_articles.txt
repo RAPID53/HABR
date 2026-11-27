@@ -1,3 +1,20 @@
+2026-11-27 10:58 | TDD как процесс, а не техника: почему о нём всё ещё стоит говорить | https://habr.com/ru/companies/habr_weeek/articles/1112756/
+2026-11-27 10:58 | Advent Of Code 2026 | https://habr.com/ru/articles/1113102/
+2026-11-27 10:56 | Windows 11 убрала кнопку «По умолчанию». Я вернул её — и по пути разобрался с UCPD.sys | https://habr.com/ru/articles/1113110/
+2026-11-27 10:54 | Ренессанса найма в IT не будет. Расходимся | https://habr.com/ru/articles/1113100/
+2026-11-27 10:53 | За пределами prompt injection: разбираем OffSec OSAI+ | https://habr.com/ru/companies/bizone/articles/1112818/
+2026-11-27 10:47 | IBM перестанет оформлять рабочие визы и грин‑карты для некоторых должностей | https://habr.com/ru/articles/1113086/
+2026-11-27 10:46 | Локальный AI-контур без облаков: связка Android + Ollama на своём железе | https://habr.com/ru/articles/1113092/
+2026-11-27 10:46 | VK × Spring АйО Java Meetup: три инженерных темы и много мандаринов | https://habr.com/ru/companies/vk/articles/1113080/
+2026-11-27 10:38 | Минэкономразвития предложило установить правила для сделок с участием ИИ‑агентов | https://habr.com/ru/articles/1113084/
+2026-11-27 10:27 | В ядре Linux 7.5 планируют добавить специальные инструкции для ИИ‑агентов | https://habr.com/ru/articles/1113076/
+2026-11-27 10:25 | Как мы разрабатывали виджеты с авторизацией на Android: главные нюансы и подводные камни | https://habr.com/ru/companies/tbank/articles/1113048/
+2026-11-27 10:24 | Что будет, если часто разряжать телефон и ноутбук до нуля | https://habr.com/ru/companies/x-com/articles/1113074/
+2026-11-27 10:22 | SAP готовит сокращение не менее 10 тысяч сотрудников из‑за перестройки бизнеса под ИИ | https://habr.com/ru/articles/1113072/
+2026-11-27 10:20 | О бедном ldap’е (slapd) замолвите слово | https://habr.com/ru/articles/1113070/
+2026-11-27 10:20 | Расчёт силовой платы в режиме постоянного тока: от «узких мест» к оптимизации топологии | https://habr.com/ru/companies/T1Holding/articles/1112114/
+2026-11-27 10:10 | Атакующим стало проще проникать в сеть | https://habr.com/ru/companies/garda/articles/1108518/
+2026-11-27 10:09 | Что реально умеет ИИ в таск-трекерах: обзор MCP в 8 системах управления проектами | https://habr.com/ru/companies/yougile/articles/1113066/
 2026-11-27 09:49 | deskhatch: открытый аналог «Install as app» из Claude. Одна среда для всех приложений, без сети, без аккаунта и с Linux | https://habr.com/ru/articles/1113056/
 2026-11-27 09:45 | Слушайте выпуск #8 подкаста «про код.ии.прод» | https://habr.com/ru/companies/banki/articles/1113050/
 2026-11-27 09:41 | Эволюция тестирования: как проверить продукт на разных стадиях | https://habr.com/ru/companies/tochka/articles/1112542/
