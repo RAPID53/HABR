@@ -1,3 +1,5 @@
+2026-11-27 17:23 | Beget: регистрация и перенос доменов снова доступны | https://habr.com/ru/articles/1113388/
+2026-11-27 16:57 | Как я превратил загрузку Windows в Linux-терминал и 24-битный UEFI-видеоплеер на голом C | https://habr.com/ru/articles/1112884/
 2026-11-27 16:36 | Представлен проект GPU demo gallery — 44 классических техно‑демо для видеокарт 3dfx, Nvidia, ATI и Matrox в браузере | https://habr.com/ru/articles/1113380/
 2026-11-27 16:21 | Укрощение Grafana: от настройки дашбордов до автоматизации | https://habr.com/ru/companies/otus/articles/1111440/
 2026-11-27 16:12 | Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL | https://habr.com/ru/companies/postgrespro/articles/1113058/
