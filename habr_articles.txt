@@ -1,3 +1,9 @@
+2026-11-28 14:37 | Как делался аквариум в Pocket Cat Desktop: спрайты, слои и пиксельный шейдер воды | https://habr.com/ru/articles/1113566/
+2026-11-28 14:33 | После хайпа ИИ-агенты оставят рутину коду | https://habr.com/ru/articles/1113564/
+2026-11-28 14:23 | GreenVLA 2.0. От общего предобучения к задачам на разных роботах | https://habr.com/ru/companies/sberbank/articles/1113512/
+2026-11-28 14:16 | Квест на 192 гигабайта RAM: как заставить Windows 11 и VirtualBox отдать всю RAM под локальный ИИ и “зоопарк” агентов | https://habr.com/ru/articles/1113562/
+2026-11-28 14:13 | Neo FreeRunner — оживляем и изучаем схемотехнику единственного настоящего Open-Source и Open-Hardware смартфона на Linux | https://habr.com/ru/companies/timeweb/articles/1113486/
+2026-11-28 13:56 | Пересел с Claude Code на Antigravity, мои впечатления через неделю использования | https://habr.com/ru/articles/1113558/
 2026-11-28 13:50 | «Что поменялось в 1С с заливки таблиц?» Простой мониторинг метаданных на Airflow и PostgreSQL | https://habr.com/ru/articles/1113556/
 2026-11-28 13:19 | Нейросети всё чаще ссылаются на YouTube — где лежит ответ: в заголовке, описании, субтитрах или под видео? | https://habr.com/ru/articles/1113554/
 2026-11-28 13:12 | Я один, агентов много: от идеи GrowPath до продакшена | https://habr.com/ru/articles/1113552/
