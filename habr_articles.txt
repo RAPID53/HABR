@@ -1,3 +1,5 @@
+2026-11-28 16:04 | Собираем нативные iOS (.ipa) и macOS (.app) на Windows без Mac через WSL2, Swift 6 и xtool | https://habr.com/ru/articles/1113580/
+2026-11-28 15:53 | Убрать пол и возраст из скоринга мало: 9 ловушек аудита предвзятости через SHAP и LIME | https://habr.com/ru/articles/1113578/
 2026-11-28 15:19 | От коллекции MP3 до self‑hosted музыкального сервиса | https://habr.com/ru/articles/1113572/
 2026-11-28 15:16 | Позиции в поиске RuStore без API: как я собираю их каждую ночь и на какие грабли наступил | https://habr.com/ru/articles/1113570/
 2026-11-28 14:37 | Как делался аквариум в Pocket Cat Desktop: спрайты, слои и пиксельный шейдер воды | https://habr.com/ru/articles/1113566/
