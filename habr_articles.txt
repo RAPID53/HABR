@@ -1,3 +1,9 @@
+2026-11-28 11:03 | Что такое модель машинного обучения? | https://habr.com/ru/articles/1113522/
+2026-11-28 11:01 | Зонд BepiColombo и русские данные с орбиты Меркурия | https://habr.com/ru/companies/ruvds/articles/1113310/
+2026-11-28 11:00 | Polymarket на Руси, или Как пойти ва-банк с банковским кэшбэком | https://habr.com/ru/articles/1113496/
+2026-11-28 10:47 | Программа Razer 7.1 Surround Sound для гарнитуры BlackShark V3 X Hyperspeed пишет данные на системный SSD | https://habr.com/ru/articles/1113516/
+2026-11-28 10:16 | Если. История одного условия на языке Rust | https://habr.com/ru/articles/1113510/
+2026-11-28 10:14 | Кто тут шеф? Управление требованиями в сложных проектах | https://habr.com/ru/articles/1113460/
 2026-11-28 10:07 | В Китае продают муляжи лидаров для имитации топовой комплектации автомобиля | https://habr.com/ru/articles/1113504/
 2026-11-28 09:47 | ИИ‑агенты стали управлять частью вычислительных мощностей DeepMind для экспериментов с Gemini | https://habr.com/ru/articles/1113502/
 2026-11-28 09:29 | Vue и MCP: готовый инструмент | https://habr.com/ru/articles/1113500/
